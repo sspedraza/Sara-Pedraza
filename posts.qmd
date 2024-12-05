@@ -1,8 +1,24 @@
 ---
-title: "My Blog"
+title: "My research"
 listing: 
   contents: posts
   type: grid
   sort: "date"
   categories: true
 ---
+
+## **An integrative approach to study diversification of tropical plants**
+
+Understanding the mechanisms of species diversification in the tropics is a fundamental goal in ecology and evolutionary biology. Tropical mountains have gained special attention due to their vast number of species and the varying conditions along elevation gradients, making them valuable for studying the influence of abiotic factors on species evolution.
+
+Janzen\'s seasonality hypothesis provides crucial insights into the mechanisms of speciation in tropical montane species and the role of temperature in the diversification process. This hypothesis states that the stability of climate in the tropics results in narrower elevation ranges in tropical mountains, limiting the migration of species across elevation due to marked physiological adaptations in organisms. The limited dispersal and specific thermal adaptations in montane tropical organisms can drive speciation in isolated populations via parapatric or allopatric speciation.
+
+## My current project!
+
+My research project aims to integrate phylogenomics, ecology, and physiology to evaluate these two mechanisms of speciation and rigorously test the connection of Janzen\'s seasonality hypothesis with speciation.
+
+I will link phylogeographic patterns with organismal performance to examine signals of isolation along elevation and across geography. Specifically, I quantify gene flow, genetic divergence, and thermotolerance (T50) of plant populations from tree species across elevation gradients to assess the prevalence of isolation along elevation or isolation across mountain ranges.
+
+This integrative approach will shed light on the mechanistic role of thermal performance in plant speciation and will contribute to understanding the evolution of tropical flora in the Anthropocene.
+
+\

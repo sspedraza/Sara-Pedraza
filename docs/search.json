@@ -16,23 +16,23 @@
   {
     "objectID": "Resources.html",
     "href": "Resources.html",
-    "title": "Resources",
+    "title": "Publications",
     "section": "",
-    "text": "Resources for xxx"
+    "text": "2024\nLeaf traits and leaf-to-air temperature differences in tropical plants suggest variability in thermoregulatory capacities across elevations"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "My Blog",
+    "title": "My research",
     "section": "",
-    "text": "Population Genomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThermotolerance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThermotolerance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Understanding the mechanisms of species diversification in the tropics is a fundamental goal in ecology and evolutionary biology. Tropical mountains have gained special attention due to their vast number of species and the varying conditions along elevation gradients, making them valuable for studying the influence of abiotic factors on species evolution.\nJanzen's seasonality hypothesis provides crucial insights into the mechanisms of speciation in tropical montane species and the role of temperature in the diversification process. This hypothesis states that the stability of climate in the tropics results in narrower elevation ranges in tropical mountains, limiting the migration of species across elevation due to marked physiological adaptations in organisms. The limited dispersal and specific thermal adaptations in montane tropical organisms can drive speciation in isolated populations via parapatric or allopatric speciation."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "About",
+    "title": "My research",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Understanding the mechanisms of species diversification in the tropics is a fundamental goal in ecology and evolutionary biology. Tropical mountains have gained special attention due to their vast number of species and the varying conditions along elevation gradients, making them valuable for studying the influence of abiotic factors on species evolution.\nJanzen's seasonality hypothesis provides crucial insights into the mechanisms of speciation in tropical montane species and the role of temperature in the diversification process. This hypothesis states that the stability of climate in the tropics results in narrower elevation ranges in tropical mountains, limiting the migration of species across elevation due to marked physiological adaptations in organisms. The limited dispersal and specific thermal adaptations in montane tropical organisms can drive speciation in isolated populations via parapatric or allopatric speciation."
   },
   {
     "objectID": "Resources.html#an-integrative-approach-to-study-diversification-of-tropical-plants",
@@ -47,5 +47,26 @@
     "title": "Research",
     "section": "My current project!",
     "text": "My current project!\nMy research project aims to integrate phylogenomics, ecology, and physiology to evaluate these two mechanisms of speciation and rigorously test the connection of Janzen's seasonality hypothesis with speciation.\nI will link phylogeographic patterns with organismal performance to examine signals of isolation along elevation and across geography. Specifically, I quantify gene flow, genetic divergence, and thermotolerance (T50) of plant populations from tree species across elevation gradients to assess the prevalence of isolation along elevation or isolation across mountain ranges.\nThis integrative approach will shed light on the mechanistic role of thermal performance in plant speciation and will contribute to understanding the evolution of tropical flora in the Anthropocene."
+  },
+  {
+    "objectID": "research.html#my-current-project",
+    "href": "research.html#my-current-project",
+    "title": "My research",
+    "section": "My current project!",
+    "text": "My current project!\nMy research project aims to integrate phylogenomics, ecology, and physiology to evaluate these two mechanisms of speciation and rigorously test the connection of Janzen's seasonality hypothesis with speciation.\nI will link phylogeographic patterns with organismal performance to examine signals of isolation along elevation and across geography. Specifically, I quantify gene flow, genetic divergence, and thermotolerance (T50) of plant populations from tree species across elevation gradients to assess the prevalence of isolation along elevation or isolation across mountain ranges.\nThis integrative approach will shed light on the mechanistic role of thermal performance in plant speciation and will contribute to understanding the evolution of tropical flora in the Anthropocene."
+  },
+  {
+    "objectID": "posts.html#my-current-project",
+    "href": "posts.html#my-current-project",
+    "title": "My research",
+    "section": "My current project!",
+    "text": "My current project!\nMy research project aims to integrate phylogenomics, ecology, and physiology to evaluate these two mechanisms of speciation and rigorously test the connection of Janzen's seasonality hypothesis with speciation.\nI will link phylogeographic patterns with organismal performance to examine signals of isolation along elevation and across geography. Specifically, I quantify gene flow, genetic divergence, and thermotolerance (T50) of plant populations from tree species across elevation gradients to assess the prevalence of isolation along elevation or isolation across mountain ranges.\nThis integrative approach will shed light on the mechanistic role of thermal performance in plant speciation and will contribute to understanding the evolution of tropical flora in the Anthropocene."
+  },
+  {
+    "objectID": "inclusive.html",
+    "href": "inclusive.html",
+    "title": "Inclusive Science",
+    "section": "",
+    "text": "As a Latin American female researcher, I am also interested in empowering underrepresented communities in science while investigating tropical biodiversity."
   }
 ]

@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - href: inclusive.qmd
+        text: Inclusive Science
       - href: resources.qmd
         text: Publications
       - href: posts.qmd
-        text: Inclusive Science
+        text: Research
 
 format:
   html:
