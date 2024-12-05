@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sara Pedraza",
     "section": "",
-    "text": "ABOUT ME\nI am a Ph.D. student interested in plant ecology, montane ecosystems, and tropical biodiversity. As a Latin American female researcher, I aim to empower underrepresented communities in science while investigating tropical biodiversity. My research integrates fieldwork, lab work, and quantitative analyses to generate knowledge about the speciation of tropical plants."
+    "text": "ABOUT ME\nI am a Ph.D. student interested in plant ecology, montane ecosystems, and tropical biodiversity.\nMy research integrates fieldwork, lab work, and quantitative analyses to generate knowledge about the speciation of tropical plants."
   },
   {
     "objectID": "about.html",
@@ -68,5 +68,12 @@
     "title": "Inclusive Science",
     "section": "",
     "text": "As a Latin American female researcher, I am also interested in empowering underrepresented communities in science while investigating tropical biodiversity."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2024\nLeaf traits and leaf-to-air temperature differences in tropical plants suggest variability in thermoregulatory capacities across elevations"
   }
 ]
