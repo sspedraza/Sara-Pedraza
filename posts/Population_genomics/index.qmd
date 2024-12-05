@@ -1,0 +1,9 @@
+---
+title: "Population Genomics"
+image: media/specimen.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---

@@ -1,0 +1,9 @@
+---
+title: "Thermotolerance"
+image: media/thermotolerance.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---

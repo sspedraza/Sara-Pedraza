@@ -1,0 +1,9 @@
+---
+title: "Acclimation"
+image: media/mountain.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---

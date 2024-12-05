@@ -1,11 +1,19 @@
 ---
 title: "Sara Pedraza"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Zapata Lab
+      href: https://www.zapatalab.org/home
 ---
+**ABOUT ME**
 
-This is a Quarto website.
+I am a Ph.D. student interested in plant ecology, montane ecosystems, and tropical biodiversity. 
+As a Latin American female researcher, I aim to empower underrepresented communities in science while investigating tropical biodiversity. My research integrates fieldwork, lab work, and quantitative analyses to generate knowledge about the speciation of tropical plants.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+

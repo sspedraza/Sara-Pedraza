@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sara Pedraza",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "ABOUT ME\nI am a Ph.D. student interested in plant ecology, montane ecosystems, and tropical biodiversity. As a Latin American female researcher, I aim to empower underrepresented communities in science while investigating tropical biodiversity. My research integrates fieldwork, lab work, and quantitative analyses to generate knowledge about the speciation of tropical plants."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources for xxx"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Population Genomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThermotolerance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThermotolerance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Resources.html#an-integrative-approach-to-study-diversification-of-tropical-plants",
+    "href": "Resources.html#an-integrative-approach-to-study-diversification-of-tropical-plants",
+    "title": "Research",
+    "section": "An integrative approach to study diversification of tropical plants",
+    "text": "An integrative approach to study diversification of tropical plants\n\nUnderstanding the mechanisms of species diversification in the tropics is a fundamental goal in ecology and evolutionary biology. Tropical mountains have gained special attention due to their vast number of species and the varying conditions along elevation gradients, making them valuable for studying the influence of abiotic factors on species evolution.\nJanzen's seasonality hypothesis provides crucial insights into the mechanisms of speciation in tropical montane species and the role of temperature in the diversification process. This hypothesis states that the stability of climate in the tropics results in narrower elevation ranges in tropical mountains, limiting the migration of species across elevation due to marked physiological adaptations in organisms. The limited dispersal and specific thermal adaptations in montane tropical organisms can drive speciation in isolated populations via parapatric or allopatric speciation."
+  },
+  {
+    "objectID": "Resources.html#my-current-project",
+    "href": "Resources.html#my-current-project",
+    "title": "Research",
+    "section": "My current project!",
+    "text": "My current project!\nMy research project aims to integrate phylogenomics, ecology, and physiology to evaluate these two mechanisms of speciation and rigorously test the connection of Janzen's seasonality hypothesis with speciation.\nI will link phylogeographic patterns with organismal performance to examine signals of isolation along elevation and across geography. Specifically, I quantify gene flow, genetic divergence, and thermotolerance (T50) of plant populations from tree species across elevation gradients to assess the prevalence of isolation along elevation or isolation across mountain ranges.\nThis integrative approach will shed light on the mechanistic role of thermal performance in plant speciation and will contribute to understanding the evolution of tropical flora in the Anthropocene."
   }
 ]
